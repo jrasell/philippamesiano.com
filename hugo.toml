@@ -1,0 +1,37 @@
+metaDataFormat = "yaml"
+title          = ""
+theme          = "blist"
+
+[params]
+  introTitle    = "Philippa Mesiano"
+  introSubtitle = "Medievalist | Heritage Engagement Professional | Freelancer"
+  introPhoto    = "/f1e6304f-fa98-4e06-bfda-de9386a9f2aa.jpg"
+  logo          = ""
+
+  contentDir  = "content/"
+  frontBundle = "projects"
+
+  darkModeToggle = true
+  ascentColor    = "bg-blue-100"
+  copyright      = "Copyright © 2024 - Dr. Philippa J. Mesiano"
+
+[params.homepage.social]
+  [[params.homepage.social.icons]]
+    website = "instagram"
+    url     = "https://instagram.com/philippamesiano"
+  [[params.homepage.social.icons]]
+    website = "linkedin"
+    url     = "https://www.linkedin.com/in/philippa-mesiano-8960521a1/"
+
+[[menu.main]]
+  name   = "Home"
+  url    = "/"
+  weight = 1
+[[menu.main]]
+  name   = "Projects"
+  url    = "/projects"
+  weight = 3
+[[menu.main]]
+  name   = "About"
+  url    = "/about"
+  weight = 2

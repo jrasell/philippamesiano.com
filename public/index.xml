@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on </description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>//localhost:1313/about/</link>
+      <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/</guid>
+      <description>Dr Philippa J. Mesiano is a historian and community engagement professional providing heritage engagement services and support to museums, heritage sites, churches and cathedrals in the South-East.&#xA;She has experience working on projects with a range of organisations including Canterbury Cathedral, The National Archives, St Mary’s Church, Beddington &amp;amp; Murston Old Church.&#xA;She currently works part-time as Community Engagement Manager at Brook Rural Museum, near Ashford in Kent.&#xA;She has published articles and public engagement blogs covering a wide range of topics including the Medieval Papacy, Historic Graffiti and the Royal Female Orphanage (1758-1968).</description>
+    </item>
+    <item>
+      <title>Brook Rural Museum</title>
+      <link>//localhost:1313/projects/brook_rural_museum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/brook_rural_museum/</guid>
+      <description>Philippa works part-time as Community Engagement Manager for Brook Rural Museum.&#xA;She has led on 2 National Lottery Heritage Funded audience development projects and is responsible for project management, education &amp;amp; outreach, events management, marketing &amp;amp; interpretation.&#xA;She has also completed a number of freelance projects for the museum, notably:&#xA;She developed an Interpretation Plan for Brook Rural Museum as part of the National Lottery Heritage Fund Project: Securing the Future of the Brook Museum - Engaging New Audiences (2022 - 2023).</description>
+    </item>
+    <item>
+      <title>Canterbury Cathedral</title>
+      <link>//localhost:1313/projects/canterbury_cathedral/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/canterbury_cathedral/</guid>
+      <description>Philippa recorded a virtual highlights tour of the Medieval Graffiti in Canterbury Cathedral Crypt which included new interpretation of the Christ in Majesty Graffiti in the Eastern Crypt, presented with Ellen Meade at the Becket Conference in April 2021.&#xA;She also wrote a blog on the subject available on the British Assosiation for Local History website.&#xA;She previously completed a Collections Internship with Canterbury Cathedral in 2018-2019 as part of the Cathedral’s National Lottery Heritage Fund Project: The Canterbury Journey.</description>
+    </item>
+    <item>
+      <title>Murston Old Church</title>
+      <link>//localhost:1313/projects/murston_old_church/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/murston_old_church/</guid>
+      <description>Philippa worked for 1 year on the National Lottery Heritage Funded Project Murston Heart: shaping a new future for Murston Old Church as the Freelance History Projects Coordinator.&#xA;She really enjoyed researching, developing and leading creative, site-specific activities and events for schools and public audiences in consultation with the Murston All Saints Trust Trustees.&#xA;Her proudest moment was leading the Medieval Graffiti Project for Sunny Bank Primary School:&#xA;In June and July 2023, the Murston Heart team, led by the team’s History Projects Coordinator Dr Philippa Mesiano, ran the Medieval Graffiti Project with Sunny Bank Primary School.</description>
+    </item>
+    <item>
+      <title>St Mary’s Church, Beddington</title>
+      <link>//localhost:1313/projects/st_marys_church_beddington/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/projects/st_marys_church_beddington/</guid>
+      <description>Philippa was Freelance Activity Plan Coordinator for the 2 year National Lottery Heritage Funded Project: Restoring and Celebrating the Arts of Craftsmanship of St Mary’s Church, Beddington.&#xA;Across the project, she developed and led a wide range of engagement projects and activities in consultation with the St Mary’s PCC.&#xA;Her proudest moment was leading the Royal Female Orphanage Oral History and Exhibition Project with support from Sutton Archives and Honeywood Museum.</description>
+    </item>
+  </channel>
+</rss>

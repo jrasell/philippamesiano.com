@@ -1,0 +1,2 @@
+# Ignore the NPM module directory.
+node_modules
