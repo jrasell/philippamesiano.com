@@ -2,6 +2,7 @@
 author: Philippa Mesiano
 title: Murston Old Church
 thumbnail: /44c73e3f-dba4-4cd3-bb61-d94e04cc5565.jpg
+url: /projects/murston_old_church/
 ---
 
 Philippa worked for 1 year on the National Lottery Heritage Funded Project

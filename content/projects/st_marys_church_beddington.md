@@ -2,6 +2,7 @@
 author: Philippa Mesiano
 title: St Mary’s Church, Beddington
 thumbnail: /2aa880ea-38ff-40cb-a166-dfd49f2747b3.jpg
+url: /projects/st_marys_church_beddington/
 ---
 
 Philippa was Freelance Activity Plan Coordinator for the 2 year National Lottery

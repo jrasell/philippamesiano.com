@@ -2,6 +2,7 @@
 author: Philippa Mesiano
 title: Canterbury Cathedral
 thumbnail: /16324be0-b378-4986-bad8-11565b5f89cc.jpg
+url: /projects/canterbury_cathedral/
 ---
 
 Philippa recorded a virtual highlights tour of the Medieval Graffiti in

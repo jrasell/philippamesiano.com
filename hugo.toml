@@ -1,3 +1,4 @@
+baseurl        = "https://philippamesiano.com"
 metaDataFormat = "yaml"
 title          = ""
 theme          = "blist"
@@ -8,7 +9,6 @@ theme          = "blist"
   introPhoto    = "/f1e6304f-fa98-4e06-bfda-de9386a9f2aa.jpg"
   logo          = ""
 
-  contentDir  = "content/"
   frontBundle = "projects"
 
   darkModeToggle = true

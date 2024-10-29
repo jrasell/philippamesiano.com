@@ -2,24 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/</loc>
+    <loc>https://philippamesiano.com/</loc>
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
+    <loc>https://philippamesiano.com/about/</loc>
     <lastmod>2024-05-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/projects/brook_rural_museum/</loc>
+    <loc>https://philippamesiano.com/projects/brook_rural_museum/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/canterbury_cathedral/</loc>
+    <loc>https://philippamesiano.com/projects/canterbury_cathedral/</loc>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
+    <loc>https://philippamesiano.com/categories/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/murston_old_church/</loc>
+    <loc>https://philippamesiano.com/projects/murston_old_church/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/</loc>
+    <loc>https://philippamesiano.com/projects/</loc>
   </url><url>
-    <loc>//localhost:1313/projects/st_marys_church_beddington/</loc>
+    <loc>https://philippamesiano.com/projects/st_marys_church_beddington/</loc>
   </url><url>
-    <loc>//localhost:1313/tags/</loc>
+    <loc>https://philippamesiano.com/tags/</loc>
   </url>
 </urlset>

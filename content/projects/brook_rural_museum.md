@@ -2,6 +2,7 @@
 author: Philippa Mesiano
 title: Brook Rural Museum
 thumbnail: /7850ad1c-976e-4016-b1ab-dc04f388f16d.jpg
+url: /projects/brook_rural_museum/
 ---
 
 Philippa works part-time as Community Engagement Manager for Brook Rural
